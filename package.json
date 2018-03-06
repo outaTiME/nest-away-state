@@ -1,0 +1,12 @@
+{
+  "name": "nest-away-state",
+  "scripts": {
+    "start": "micro"
+  },
+  "dependencies": {
+    "cuid": "^2.1.0",
+    "micro": "latest",
+    "node-fetch": "^2.1.1",
+    "query-string": "^5.1.0"
+  }
+}
